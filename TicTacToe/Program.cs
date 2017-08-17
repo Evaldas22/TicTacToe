@@ -17,11 +17,6 @@ namespace TicTacToe
         {
             try
             {
-                Console.ForegroundColor = ConsoleColor.Black;
-                Console.BackgroundColor = ConsoleColor.White;
-
-                Console.Clear();
-
                 Console.WriteLine(Constants.Welcome + Environment.NewLine);
                 bool playAgain = false;
 

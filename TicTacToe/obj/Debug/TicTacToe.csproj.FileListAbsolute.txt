@@ -6,3 +6,12 @@ c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\ob
 c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
 c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\System.ValueTuple.dll
 c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\System.ValueTuple.xml
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\bin\Debug\System.ValueTuple.dll
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\bin\Debug\System.ValueTuple.xml
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\EVALDAS-PC\Desktop\testine\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
