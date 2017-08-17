@@ -1,0 +1,8 @@
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\System.ValueTuple.dll
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\System.ValueTuple.xml
